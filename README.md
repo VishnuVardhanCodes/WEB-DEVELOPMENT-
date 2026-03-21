@@ -1,6 +1,6 @@
-🌐 Web Development Restart — HTML, CSS & Bootstrap Revision
+🌐 **Web Development Restart — HTML, CSS & Bootstrap Revision**
 
-📌 About This Repository
+📌 **About This Repository**
 
 This repository contains my Web Development Restart Journey, where I am revising the core fundamentals of HTML, CSS, and Bootstrap before moving into JavaScript.
 
@@ -14,7 +14,7 @@ The main goal of this repository is to:
 
 This repository serves as both a learning workspace and a progress tracker.
 
-🎯 Objectives
+🎯 **Objectives**
 Revise HTML fundamentals
 Master CSS layouts
 Learn Responsive Design
@@ -23,18 +23,18 @@ Build real mini projects
 Prepare for JavaScript development
 
 
-📌 Future Plans
+📌 **Future Plans**
 
 After completing this repository:
 
-Learn JavaScript
-Learn DOM Manipulation
-Build Interactive Projects
-Move to React.js
-Build Full Stack Applications
+-Learn JavaScript
+-Learn DOM Manipulation
+-Build Interactive Projects
+-Move to React.js
+-Build Full Stack Applications
 
-👨‍💻 Author
+👨‍💻 **Author**
 Polla Vishnu Vardhan
 
-Web Development Learner
+**Web Development Learner**
 Frontend Developer (In Progress 🚀)
