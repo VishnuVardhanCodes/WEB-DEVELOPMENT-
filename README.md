@@ -22,7 +22,6 @@ Practice Bootstrap components
 Build real mini projects
 Prepare for JavaScript development
 
-
 📌 **Future Plans**
 
 After completing this repository:
