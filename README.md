@@ -2,7 +2,7 @@
 
 📌 **About This Repository**
 
-<p>This repository contains my Web Development Restart Journey, where I am revising the core fundamentals of HTML, CSS, and Bootstrap before moving into JavaScript.</p>
+This repository contains my Web Development Restart Journey, where I am revising the core fundamentals of HTML, CSS, and Bootstrap before moving into JavaScript.
 
 The main goal of this repository is to:
 
