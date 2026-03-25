@@ -7,7 +7,7 @@ This repository contains my Web Development Restart Journey, where I am revising
 The main goal of this repository is to:
 
 -Strengthen frontend fundamentals
--Practice structured coding
+-Practice structured coding 
 -Build responsive layouts
 -Create mini projects
 -Prepare for JavaScript development 
