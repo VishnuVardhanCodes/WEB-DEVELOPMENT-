@@ -8,7 +8,7 @@ The main goal of this repository is to:
 
 -Strengthen frontend fundamentals
 -Practice structured coding 
--Build responsive layouts
+-Build responsive layouts 
 -Create mini projects 
 -Prepare for JavaScript development 
 
